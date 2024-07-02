@@ -1,4 +1,4 @@
-#Shaming Anticheat.
+# Shaming Anticheat.
 
 # **Anticheat para MTA (Multi Theft Auto)**
 
