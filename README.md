@@ -4,7 +4,7 @@
 
 Bem-vindo ao projeto de Anticheat para Multi Theft Auto (MTA). Este repositório destina-se a abrigar o desenvolvimento de um sistema anticheat para melhorar a integridade e a equidade do jogo no ambiente multiplayer do MTA.
 
-[Nosso discord](https://discord.gg/erxaH9AbVh)
+[Nosso discord](https://discord.gg/SM45sHphaE)
 
 *Sua chave/key é privada não passe-a ninguém, use apenas no seu servidor! O nosso sistema detecta o ip e porta original do servidor que estará iniciando o anticheat!*  
 
